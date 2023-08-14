@@ -5,7 +5,7 @@ import {
   ChainInfoID,
   WalletManagerProvider,
   WalletType,
-} from "dpdanpittman/cosmodal";
+} from "@noahsaso/cosmodal";
 
 import { Buffer } from "buffer/";
 (globalThis as any).Buffer = Buffer;
